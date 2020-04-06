@@ -1,6 +1,18 @@
 
+* {
+    font-family: 'PT Sans', sans-serif;
+}
 
 #contactForm {
     margin: 100px; 
 }
 
+#socials {
+    height: 40px;
+    width: 40px;
+
+}
+
+#nav {
+    
+}
